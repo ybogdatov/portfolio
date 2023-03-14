@@ -13,6 +13,24 @@ Creating executive dashboard in Excel and Tableau from SQL database of BikeShop.
 #### Project Description
 Research conducted for MSc Applied Data Science. This research explored machine learning algorithms in the student admission sphere, conducted an exploratory data analysis on the graduate admission dataset, trained the classification and regression machine learning models on the example of Anglia Ruskin University, and evaluated each of the machine learning models to identify the most efficient algorithm for admission purposes and propose the web application prototype for the university admission office.
 #### Results
+*Exploratory data analysis*
+
+<img src="https://github.com/ybogdatov/portfolio/blob/main/Screenshots/firefox_KHm17iu0IJ.png"  width="400" height="400" />|<img src="https://github.com/ybogdatov/portfolio/blob/main/Screenshots/firefox_KtUByBu4N3.png"  width="400" height="400" />
+<img src="https://github.com/ybogdatov/portfolio/blob/main/Screenshots/firefox_P6uiMIIPDW.png"  width="400" height="400" />|<img src="https://github.com/ybogdatov/portfolio/blob/main/Screenshots/firefox_TUUDJpbI8y.png"  width="400" height="400" />
+
+
+
+*Accuracy Scores*
+
+<img src="https://github.com/ybogdatov/portfolio/blob/main/Screenshots/firefox_SgSbQrQYq1.png"/>
+
+*Streamlit app*
+
+<img src="https://github.com/ybogdatov/portfolio/blob/main/Screenshots/firefox_ArC4cY6Suu.png"/>
+<img src="https://github.com/ybogdatov/portfolio/blob/main/Screenshots/firefox_qgf29MClev.png"/>
+
 #### Technology Used
+Numpy,Pandas, Seaborn, MatPlotLib, ScikitLearn, Python, Streamlit
 #### Skills
+Exploratory Data Analysis, Visualisations, Machine learning, Pandas, Conducting Research, Critical Thinking
 #### Repository 
